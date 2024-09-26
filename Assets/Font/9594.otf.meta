@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7bd191ca204d4a07bfd745c6df2bb334
+timeCreated: 1726926528
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "9594"
+  fontNames:
+  - 315karusel
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

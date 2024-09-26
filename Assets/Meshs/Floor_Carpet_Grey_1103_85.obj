@@ -1,0 +1,22 @@
+#Floor_Carpet_Grey_1103_85.obj
+
+v 2.5 0 -2.5
+v 2.5 0 2.5
+v -2.5 0 2.5
+v -2.5 0 -2.5
+
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+
+vt 0.232666 0.4743652
+vt 0.237915 0.4743652
+vt 0.237915 0.4794922
+vt 0.232666 0.4794922
+
+g Floor_Carpet_Grey_1103_85
+usemtl Floor_Carpet_Grey_1103_85
+usemap Floor_Carpet_Grey_1103_85
+f 1/1/1 3/3/3 2/2/2
+f 1/1/1 4/4/4 3/3/3

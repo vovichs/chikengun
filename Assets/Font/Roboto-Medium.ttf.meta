@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a960cc1f025749bb909a1b36090b3a5f
+timeCreated: 1726926528
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Roboto-Medium"
+  fontNames:
+  - Roboto
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

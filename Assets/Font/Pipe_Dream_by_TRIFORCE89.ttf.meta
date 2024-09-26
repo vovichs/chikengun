@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b6021dca3d1449a48de628c304cbe19b
+timeCreated: 1726926528
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Pipe_Dream_by_TRIFORCE89"
+  fontNames:
+  - Pipe Dream
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

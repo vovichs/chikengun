@@ -1,0 +1,22 @@
+#Floor_Carpet_Blue_1122_66.obj
+
+v -2.5 0 -2.5
+v 2.5 0 -2.5
+v 2.5 0 2.5
+v -2.5 0 2.5
+
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+
+vt 0.4816895 0.1939697
+vt 0.4868164 0.1939697
+vt 0.4868164 0.1992188
+vt 0.4816895 0.1992188
+
+g Floor_Carpet_Blue_1122_66
+usemtl Floor_Carpet_Blue_1122_66
+usemap Floor_Carpet_Blue_1122_66
+f 1/1/1 3/3/3 2/2/2
+f 1/1/1 4/4/4 3/3/3
